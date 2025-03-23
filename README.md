@@ -1,5 +1,5 @@
 ![Image](https://github.com/user-attachments/assets/7237c7ab-f11d-42c7-a313-d57ed4985d86)
-<!--
+𝓖𝓪𝔂 𝓪𝓷𝓭 𝓯𝓻𝓮𝓪𝓴𝔂...
 **cxnnibalism/cxnnibalism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
