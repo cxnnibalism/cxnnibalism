@@ -1,6 +1,4 @@
-![Image](https://github.com/user-attachments/assets/36805f2f-ec8a-44cd-8259-b9a8aa69a65a)
-“𝓣𝓱𝓮 𝓻𝓮𝓭 𝓶𝓮𝓪𝓷𝓼 𝓘 𝓵𝓸𝓿𝓮 𝔂𝓸𝓾, 𝓣𝓪𝓼𝓽𝓲𝓷𝓰 𝔂𝓸𝓾𝓻 𝓫𝓵𝓸𝓸𝓭 𝓶𝓮𝓪𝓷𝓼 𝓘 𝓵𝓸𝓿𝓮 𝔂𝓸𝓾.”
-(Credits to the artist!)
+![Image](https://github.com/user-attachments/assets/7237c7ab-f11d-42c7-a313-d57ed4985d86)
 <!--
 **cxnnibalism/cxnnibalism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
